@@ -7,7 +7,6 @@ const LandingPage = () => {
     useEffect(() => {
         initTE({ Carousel });
     }, []);
-
     return (
         <div
             id="carouselExampleSlidesOnly"
